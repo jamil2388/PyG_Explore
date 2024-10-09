@@ -33,6 +33,10 @@ jupyter notebook
 
 # Projects
 
+### GNN Hands on Part 1 
+
+This notebook starts a hands on demonstration of the graph data and relevant concepts required for GNN tasks
+
 ### Splits
 
 This notebook shows the study of Node vs Edge level splits in pyg. We study the methods RandomNodeSplit vs RandomLinkSplit on toy datasets. There is a load_file method which can load any pkl file. Our datasets are homogeneous and heterogeneous graphs. The code can be applied to any sort of dataset as long as it is a pyg graph.
