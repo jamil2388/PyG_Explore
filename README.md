@@ -35,7 +35,11 @@ jupyter notebook
 
 ### GNN Hands on Part 1 
 
-This notebook starts a hands on demonstration of the graph data and relevant concepts required for GNN tasks
+This notebook starts a hands on demonstration of Homogeneous graph data manipulation concepts using PyG Library required for GNN tasks
+
+### GNN Hands on Part 2 
+
+This notebook demonstrates Node Classification and Graph Classification using Homogeneous graph data 
 
 ### Splits
 
