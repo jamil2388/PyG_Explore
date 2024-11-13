@@ -41,6 +41,12 @@ This notebook starts a hands on demonstration of Homogeneous graph data manipula
 
 This notebook demonstrates Node Classification and Graph Classification using Homogeneous graph data 
 
+### GNN Hands on Part 3
+
+This notebook takes a hands on with Heterogeneous Graph data. Here we use Movielens dataset to predict if a user rates a movie of a type of genre,  
+with the help of Self Supervised Link Prediction task. We also look deeply into the preprocessing steps needed to build up a heterogeneous graph
+data from a raw dataset
+
 ### Splits
 
 This notebook shows the study of Node vs Edge level splits in pyg. We study the methods RandomNodeSplit vs RandomLinkSplit on toy datasets. There is a load_file method which can load any pkl file. Our datasets are homogeneous and heterogeneous graphs. The code can be applied to any sort of dataset as long as it is a pyg graph.
